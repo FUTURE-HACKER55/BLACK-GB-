@@ -1,0 +1,6 @@
+{
+  "name": "Black GB",
+  "description": "An ultra-secure, elegant dark WhatsApp clone with real-time chat, statuses, and Black-Carl GB, your personal AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
